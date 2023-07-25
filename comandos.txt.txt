@@ -31,3 +31,5 @@ docker run -d -p 80:80 apache-centos
 
 docker history -H apache-centos:primera
 
+
+
